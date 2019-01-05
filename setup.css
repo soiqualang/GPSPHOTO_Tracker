@@ -1,0 +1,316 @@
+body {
+	font : 10pt arial, verdana, sans-serif;
+	margin : 0;
+	margin-top:20px;
+	margin-left:15%;
+	margin-right:15%;
+}
+table { 
+border-color: #3366cc; 
+	border : 1px solid #5575B7;
+}
+em { font-weight: bold; 
+font-style: normal;
+}
+#logo {	height : 80px; 
+font-size: 36pt;
+padding-left: 60px;
+text-decoration: none;}
+#main {	width : 100%; border-bottom : 1px solid #DDD; }
+#left { width : 20%; }
+#right { width : 80%; }
+#top td {
+	border-top : 1px solid #5575B7;
+	padding : 3px;
+	color : white;
+	font : 12pt arial, verdana, sans-serif;
+	text-align : center;
+}
+#top #left {
+	background : #8CAEDC;
+	border-right : 2px solid #5575B7;
+}
+#top #right { background : #6A92C9 right no-repeat; }
+#progress {
+	border-right : 1px dashed #5575B7;
+	padding : 4px;
+	vertical-align:top;
+}
+#content { padding : 4px; vertical-align : top; }
+
+/* Progress Lists */
+li.first, li.complete {
+	margin : 0; padding : 4px 0;
+	color : #2B4B8B;
+	font-size : 11pt;
+}
+li.first span {
+	display : block;
+	border-bottom : 1px solid #899EC8;
+}
+ul.second li {
+	color : #868686;
+	padding : 2px 4px;
+	font-size : 10pt;
+	border-bottom : 0;
+}
+ul {
+	margin : 0; padding : 0;
+}
+ul.second li.done {
+	color : #1F5FDF;
+}
+ul.second li.error {
+	color : #DF1F1F;
+}
+
+/* Content */
+h1, h2, h3, h4, p { margin : 0; padding : 0; }
+h1, h2, h3, h4 {
+	padding : 8px;
+	color : #1E4376;
+	font : 14pt arial, verdana, sans-serif;
+}
+h2 {
+	font-size : 14pt;
+	color : #395D8F;
+}
+h3 {
+	padding : 0px;
+	font-size : 12pt;
+	border-bottom : 1px solid #839DD3;
+}
+h4 {
+	padding : 0px;
+	font-size : 10pt;
+	border-bottom : 1px solid #839DD3;
+}
+p#intro {
+	padding-left : 8px;
+	color : #416CA8;
+	font : 10pt arial, verdana, sans-serif;
+}
+a:link, a:visited {
+	color : #1F5FDF;
+	text-decoration : none;
+}
+a:hover {
+	color : #1F5FDF;
+	text-decoration : underline;
+}
+#logo a:hover {
+	text-decoration : none;
+}
+#options {
+	margin : 2px 10px;
+	margin : 0px 10px;
+}
+#options p {
+	color : #555;
+	padding : 10px 0px;
+}
+#grey {
+	opacity : 0.35;
+	-moz-opacity : 0.35;
+}
+.begin {
+	margin : 10px 0px;
+}
+.begin a:link, .begin a:visited {
+	color : white;
+	background : #5575B7;
+	border : 1px solid #3A5C86;
+	padding : 2px 4px;
+	margin : 4px;
+	font-size : 8pt;
+	text-align : center;
+        border-width: thin thin thin thin; 
+        border-color: #CCCCFF #CCCCCC #CCCCCC #CCCCFF;
+}
+.begin a:hover {
+	background : #3A5C86;
+	color : #D7E3F3;
+        border-width: thin medium medium thin; 
+        border-color: #CCFF99 #999999 #999999 #CCFF99;
+}
+.button {
+        font-size: 12px;
+        color : white; 
+        background: #5575B7; 
+        border-width: thin thin thin thin; 
+        border-color: #CCCCFF #CCCCCC #CCCCCC #CCCCFF;
+}
+.button1 {
+        font-size: 12px; 
+        color : #D7E3F3; 
+        font-weight: bold; 
+        background: #3A5C86;
+        border-width: thin thin thin thin; 
+        border-color: #CCFF99 #999999 #999999 #CCFF99;
+}
+.button2
+  {
+    background:#ffffff; 
+    border:1px double #3A5C86; 
+    -moz-border-left-colors:  #CCCCFF #3A5C86 #CCCCFF; 
+    -moz-border-right-colors: #CCCCFF #CCCCCC #CCCCFF;
+    -moz-border-top-colors:   #CCCCFF #CCCCCC #CCCCFF;
+    -moz-border-bottom-colors:#CCCCFF #CCCCCC #CCCCFF; 
+    width: 270px;
+}
+.button3
+  {
+    background:   #8CAEDC; 
+    border-color: #CCCCFF; 
+    border-style: dotted; 
+    border-width: 1px
+}
+.button4 {
+        font-size: 12px;
+        color : white; 
+        background: #8CAEDC; 
+        border-width: thin thin thin thin; 
+        border-color: #CCCCFF #CCCCCC #CCCCCC #CCCCFF;
+}
+input.smallInput{
+        border:1 solid black;
+        color : #1E4376;
+        background:#ffffff;
+        border-bottom-color:#3A5C86; 
+        border-top-color:#3A5C86; 
+        border-left-color:#3A5C86; 
+        border-right-color:#3A5C86; 
+        border-bottom-width:1px;
+        border-top-width:1px;
+        border-left-width:1px;
+        border-right-width:1px; 
+        solid #3A5C86; 
+        FONT-SIZE: 9pt; 
+        FONT-STYLE: normal; 
+        FONT-VARIANT: normal; 
+        FONT-WEIGHT: normal; 
+        HEIGHT: 18px; 
+        LINE-HEIGHT: normal
+}
+.notice {
+			font-size: 12px;
+			color: red;
+}
+.foot {
+			font-size: 12px;
+			color: blue;
+}
+
+#infotitle
+			{
+			text-align: center;white-space: nowrap;
+			font-weight: bold;
+			padding-bottom: 10px;
+			font-size: 12px;
+			color: #CC0000;
+			}
+
+#infodesc
+			{
+			float: left;white-space: nowrap;
+			padding-right: 5px;
+			}
+
+#infoimg
+			{
+			text-align: center;white-space: nowrap;
+			}
+
+/* ################################################################################## */
+/*	  	for helptips or errortips	 */
+.fstooltips {
+
+border: 1px solid #0000A0;
+width: 240;
+
+}
+
+.tipheader {
+
+background-color: #0000A0;
+color: #F3B627;
+FONT-WEIGHT: bold;
+FONT-SIZE: 8pt;
+FONT-FAMILY: arial;
+
+}
+
+.tipcontent {
+
+background-color: #CACAFF;
+color: #0000A0;
+FONT-WEIGHT: normal;
+FONT-SIZE: 8pt;
+FONT-FAMILY: arial;
+
+}
+
+.errortips {
+
+border: 1px solid red;
+width: 240;
+
+}
+
+.errorheader {
+
+background-color: #FF6633;
+color: white;
+FONT-WEIGHT: bold;
+FONT-SIZE: 8pt;
+FONT-FAMILY: arial;
+
+}
+
+.errorcontent {
+
+background-color: #FFFF99;
+color: red;
+FONT-WEIGHT: normal;
+FONT-SIZE: 8pt;
+FONT-FAMILY: arial;
+
+}
+/* ################################################################################## */
+
+/* ######################## For hide&appand table style ##################################### */
+.contenttext {
+BORDER-BOTTOM: #98aab1 1px solid; 
+BORDER-LEFT: #98aab1 1px solid; 
+BORDER-RIGHT: #98aab1 1px solid; 
+TEXT-ALIGN:justify;
+FONT-FAMILY: Verdana;
+FONT-SIZE: 11px;
+FONT-WEIGHT: normal; 
+COLOR: #5B5B5B;
+PADDING-TOP: 5px;
+PADDING-BOTTOM: 0px;
+PADDING-LEFT: 5px;
+PADDING-RIGHT: 5px;
+BACKGROUND-COLOR: #F5F5F5;
+}
+
+
+.contenttopl {
+BORDER-TOP: #98aab1 1px solid; 
+BORDER-LEFT: #98aab1 1px solid; 
+FONT-FAMILY: Arial;
+FONT-WEIGHT: bold; 
+FONT-SIZE: 12px;
+TEXT-ALIGN:center;
+BACKGROUND-COLOR: #F5F5F5;
+COLOR: #006699;
+TEXT-TRANSFORM: uppercase;
+}
+
+
+.contenttopr { 
+BORDER-LEFT: #98aab1 1px solid; 
+BORDER-BOTTOM: #98aab1 1px solid; 
+}
+/* ################################################################################## */

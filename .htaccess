@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^gpsphoto.easywms.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.gpsphoto.easywms.com$
+RewriteRule ^(.*)$ "http\:\/\/www\.easywms\.com\/gpsphoto" [R=301,L]
+
+AddType application/widget wgt
+AddType application/java-archive jar

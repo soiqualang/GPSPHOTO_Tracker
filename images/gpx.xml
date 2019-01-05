@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.8.0" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2002-07-13T14:00:00Z</time>
+    <bounds maxlat="35.21000" maxlon="-84.8100" minlat="35.20800" minlon="-84.8300"/>
+  </metadata>
+  <trk>
+    <name>ACTIVE LOG</name>
+    <trkseg>
+      <trkpt lat="35.20965" lon="-84.82172">
+        <ele>487.525635</ele>
+        <time>2002-07-13T15:35:04Z</time>
+      </trkpt>
+      <trkpt lat="35.20966" lon="-84.82172">
+        <ele>486.083740</ele>
+        <time>2002-07-13T15:58:40Z</time>
+      </trkpt>
+      <trkpt lat="35.20966" lon="-84.82173">
+        <ele>487.525635</ele>
+        <time>2002-07-13T15:59:42Z</time>
+      </trkpt>
+      <trkpt lat="35.20938" lon="-84.82136">
+        <ele>487.525635</ele>
+        <time>2002-07-13T15:59:52Z</time>
+      </trkpt>
+      <trkpt lat="35.20916" lon="-84.82118">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:00:02Z</time>
+      </trkpt>
+      <trkpt lat="35.20902" lon="-84.82101">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:00:12Z</time>
+      </trkpt>
+      <trkpt lat="35.20904" lon="-84.82082">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:00:22Z</time>
+      </trkpt>
+      <trkpt lat="35.20909" lon="-84.82042">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:00:32Z</time>
+      </trkpt>
+      <trkpt lat="35.20893" lon="-84.82005">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:00:42Z</time>
+      </trkpt>
+      <trkpt lat="35.20864" lon="-84.81964">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:00:52Z</time>
+      </trkpt>
+      <trkpt lat="35.20844" lon="-84.81937">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:01:02Z</time>
+      </trkpt>
+      <trkpt lat="35.20843" lon="-84.8192">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:01:12Z</time>
+      </trkpt>
+      <trkpt lat="35.20861" lon="-84.81885">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:01:22Z</time>
+      </trkpt>
+      <trkpt lat="35.20879" lon="-84.81884">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:01:32Z</time>
+      </trkpt>
+      <trkpt lat="35.20916" lon="-84.81833">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:01:42Z</time>
+      </trkpt>
+      <trkpt lat="35.2094" lon="-84.8182">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:01:52Z</time>
+      </trkpt>
+      <trkpt lat="35.20959" lon="-84.81804">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:02:02Z</time>
+      </trkpt>
+      <trkpt lat="35.20952" lon="-84.81786">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:02:12Z</time>
+      </trkpt>
+      <trkpt lat="35.20935" lon="-84.81747">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:02:22Z</time>
+      </trkpt>
+      <trkpt lat="35.20904" lon="-84.81663">
+        <ele>487.525635</ele>
+        <time>2002-07-13T16:02:32Z</time>
+      </trkpt>
+      <!-- .... -->
+    </trkseg>
+  </trk>
+</gpx>
